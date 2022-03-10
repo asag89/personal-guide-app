@@ -1,0 +1,47 @@
+{
+  "guides": [
+    "css",
+    "react",
+    "nodejs"
+  ],
+  "css": [],
+  "react": [
+    {
+      "title": "react",
+      "text": "hooks",
+      "id": 1
+    },
+    {
+      "title": "react component",
+      "text": "hooks state",
+      "id": 2
+    },
+    {
+      "title": "react",
+      "text": "state component",
+      "id": 3
+    }
+  ],
+  "nodejs": [
+    {
+      "title": "nodejs",
+      "text": "server",
+      "id": 1
+    },
+    {
+      "title": "ghhf",
+      "text": "nodejs expressjs",
+      "id": 2
+    },
+    {
+      "title": "lorem ipsum dolor",
+      "text": "lorem ipsum dolor sit amet server",
+      "id": 3
+    },
+    {
+      "title": "lorem ipsum dolor",
+      "text": "lorem ipsum dolor sit amet ghhf",
+      "id": 4
+    }
+  ]
+}
